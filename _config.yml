@@ -1,14 +1,14 @@
 # Site Info
-title:              "The Blog by beSaif"
+title:              "The Plain"
 description:        "A minimalist Jekyll theme"
-author_name:        "Saif" # change this to your name
-logo_url:           https://instagram.fblr24-1.fna.fbcdn.net/v/t51.2885-19/s320x320/246826540_103953325371090_3941135167860923134_n.jpg?_nc_ht=instagram.fblr24-1.fna.fbcdn.net&_nc_ohc=4X8rjRPhz_0AX-ATe9U&tn=HAA_CPoP6RohBxkb&edm=ABfd0MgBAAAA&ccb=7-4&oh=7557e74a8ddbc6c10cd8b52b1ec5e590&oe=617B2EED&_nc_sid=7bff83 # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "Heiswayi Nrird" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://besaif.github.io # main url
-baseurl:            /the-blog
+url:                https://heiswayi.github.io # main url
+baseurl:            /the-plain
 permalink:          /:title # Post permalink
-timezone:           Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 social_share_previews: true
 
