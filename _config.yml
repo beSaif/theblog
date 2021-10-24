@@ -5,8 +5,8 @@ author_name:        "Saif" # change this to your name
 logo_url:           https://avatars.githubusercontent.com/u/22230219?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                https://besaif.github.io # main url
+baseurl:            /theblog
 permalink:          /:title # Post permalink
 timezone:           Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
